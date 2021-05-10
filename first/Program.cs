@@ -8,8 +8,13 @@ namespace first
 {
     class Program
     {
+        static void Method()
+        {
+            
+        }
         static void Main(string[] args)
         {
+            Method();
             Console.WriteLine("Hello World");
         }
     }
